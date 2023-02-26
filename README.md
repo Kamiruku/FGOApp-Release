@@ -13,6 +13,7 @@ Conditional passive skills like "Ultimate One" from Arcueid will not be accounte
 * Effects from NPs are not accounted for.
 * Swiping to and from tabs automatically updates values in there if they are changed.
 * If there are no buffs for a buff slot, leave it empty.
+* Buff slots where two icons are present and a (-) means negative values are allowed.
 
 ## Credits
 All data and values are obtained from AtlasAcademy.  
